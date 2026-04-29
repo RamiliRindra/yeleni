@@ -178,43 +178,6 @@ export function Services() {
               </div>
             </div>
 
-            {/* 5. Solutions spécifiques pour les entreprises */}
-            <div>
-              <div className="flex items-center gap-3">
-                <Building2 className="w-6 h-6 text-blue-500" />
-                <h2 className="text-3xl font-bold">Solutions spécifiques pour les entreprises et collectivités</h2>
-              </div>
-              <div className="grid md:grid-cols-3 gap-8 mt-8">
-                <div className="bg-black/30 p-8 rounded-lg">
-                  <div className="flex items-center gap-3 mb-4">
-                    <Building className="w-6 h-6 text-blue-500 flex-shrink-0" />
-                    <h3 className="text-xl font-bold">Analyse de besoins avancée</h3>
-                  </div>
-                  <p className="text-gray-400">
-                    Étudier la taille de l'entreprise, ses objectifs de connectivité, son architecture réseau et sécurité, etc.
-                  </p>
-                </div>
-                <div className="bg-black/30 p-8 rounded-lg">
-                  <div className="flex items-center gap-3 mb-4">
-                    <Users className="w-6 h-6 text-blue-500 flex-shrink-0" />
-                    <h3 className="text-xl font-bold">Offres Corporate</h3>
-                  </div>
-                  <p className="text-gray-400">
-                    SLA (Service Level Agreement) personnalisés, passerelles professionnelles, intégration avec le réseau existant et outils collaboratifs.
-                  </p>
-                </div>
-                <div className="bg-black/30 p-8 rounded-lg">
-                  <div className="flex items-center gap-3 mb-4">
-                    <Building2 className="w-6 h-6 text-blue-500 flex-shrink-0" />
-                    <h3 className="text-xl font-bold">Couverture des zones reculées</h3>
-                  </div>
-                  <p className="text-gray-400">
-                    Projets clés en main pour les sites difficiles d'accès ou isolés (mines, chantiers, ONG, etc.).
-                  </p>
-                </div>
-              </div>
-            </div>
-
             {/* 6. Projets sociaux */}
             <div>
               <div className="flex items-center gap-3">
